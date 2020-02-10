@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RamuAndFriendsGenericsReflection/1.0.0": {
+        "runtime": {
+          "RamuAndFriendsGenericsReflection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RamuAndFriendsGenericsReflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
